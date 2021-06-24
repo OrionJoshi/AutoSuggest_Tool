@@ -1,1 +1,34 @@
-# AutoCorrect_Tool
+# AutoSuggest_Tool
+
+### Simple Auto suggestion using Trie Data structure
+
+### Screenshots:
+
+| 1 | 2 |
+ :-------------------------:  |  :-------------------------:
+![1](./screenShots/step1.png) | ![2](./screenShots/step2.png)
+:-------------------------:  |  :-------------------------:
+| 3 | 4 |
+![3](./screenShots/step3.png) | ![4](./screenShots/step4.png)
+
+
+## Data Structure Used:
+
+* [Trie](https://en.wikipedia.org/wiki/Trie)
+
+## Built With
+
+* [HTML5](https://devdocs.io/html/)
+* [CSS3](https://devdocs.io/css/)
+* [JavaScript](https://devdocs.io/javascript/)
+
+
+
+## Authors
+
+* **Khageshwor Joshi** - [Orion](https://github.com/khageshwor)
+
+## Contributions of any kind  are welcome!
+
+    - Leave a pull request!!! and dont forget to give a star.
+
